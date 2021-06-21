@@ -1,6 +1,6 @@
-name="StellarisOriginFix"
+name="RevEnCfix"
 tags={
-	"Origins"
+	"Balance"
 }
 dependencies={
 	"Revolutions - Ethics and Civics"
